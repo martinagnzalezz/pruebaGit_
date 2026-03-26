@@ -14,6 +14,7 @@ namespace pruebaGit
 
             string mensaje = "Hola mundo";
 
+            int numero = 0;
 
         }
     }

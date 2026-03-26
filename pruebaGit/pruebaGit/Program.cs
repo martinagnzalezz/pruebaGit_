@@ -10,6 +10,11 @@ namespace pruebaGit
     {
         static void Main(string[] args)
         {
+
+
+            string mensaje = "Hola mundo";
+
+
         }
     }
 }
